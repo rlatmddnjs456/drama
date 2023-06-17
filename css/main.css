@@ -293,7 +293,7 @@ header .badges .badge {
 .visual .cup2.image {
   position: absolute;
   bottom: 0;
-  right: 162px;
+  right: 400px;
 }
 .visual .cup2.text {
   position: absolute;
@@ -303,7 +303,7 @@ header .badges .badge {
 .visual .spoon {
   position: absolute;
   bottom: 0;
-  left: 275px;
+  left: 1px;
 }
 .visual .fade-in {
   opacity: 0;
@@ -589,7 +589,7 @@ header .badges .badge {
 
 /*RESERVE COFFEE*/
 .reserve-coffee {
-  background-image: url("../images/reserve_bg.jpg");
+  background-image: url("../images/p12.jpg");
 }
 .reserve-coffee .inner {
   height: 400px;
@@ -613,7 +613,7 @@ header .badges .badge {
 
 /*PICK YOUR FAVORITE*/
 .pick-your-favorite {
-  background-image: url("../images/favorite_bg.jpg");
+  background-image: url("../images/p11.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
@@ -639,7 +639,7 @@ header .badges .badge {
 
 /*RESERVE STORE*/
 .reserve-store {
-  background-image: url("../images/reserve_store_bg.jpg");
+  background-image: url("../images/p5.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
